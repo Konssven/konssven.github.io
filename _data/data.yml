@@ -48,21 +48,23 @@ sidebar:
         - item: Reading
           link:
 
-        - item: Dancing
+        - item: Traditional Dancing
           link:
 
         - item: Watching Series
-          link: www.netflix.com/gr/
+          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My name is Konstantinos Sventzouris and i graduated from the school of 
+      Electical and Computer Engineering. For the last 10 years i have been 
+      working in a Company that constructs and supports fuel stations as a 
+      manager of the Complete system of Input and Output Control System. 
+      I am the quality manager of the company's laboratory according to ISO 17025
+      I have developed a tank volume measurement software. In 2022 i have decided
+      to undertake the Hellenic Open University's master degree in Pervasive and 
+      Mobile Computing Systems
 education:
     title: Education
     info:
@@ -77,7 +79,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Electrival and Computer Engineering
+      - degree: BSc in Electrical and Computer Engineering
         university: Democritus University of Thrace
         time: 2003 - 2010
         details: |
