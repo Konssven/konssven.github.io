@@ -33,26 +33,26 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Greek
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
+#        - idiom: Spanish
+#          level: Professional
+#
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Dancing
           link:
 
-        - item: Cooking
-          link:
+        - item: Watching Series
+          link: www.netflix.com/gr/
 
 career-profile:
     title: Career Profile
