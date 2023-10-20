@@ -60,7 +60,7 @@ career-profile:
       My name is Konstantinos Sventzouris and i graduated from the school of 
       Electical and Computer Engineering. For the last 10 years i have been 
       working in a Company that constructs and supports fuel stations as a 
-      manager of the Complete system of Input and Output Control System. 
+      manager of the integrated system of management of input and output of Gas Stations 
       I am the quality manager of the company's laboratory according to ISO 17025
       I have developed a tank volume measurement software. In 2022 i have decided
       to undertake the Hellenic Open University's master degree in Pervasive and 
@@ -94,11 +94,12 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Manager of Intergated system of Management of I/O of Gas Stations
+        time: 2013 - Present
+        company: IKAROS S.A.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          - Support and management of Intergrated system of Management of 
+          Input and Output Of Gas Stations
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
